@@ -20,6 +20,8 @@ Atuo na área de desenvolvimento de software, criando aplicações web e mobile,
 
 ---
 
+
+
 ## 🛠️ Tecnologias e ferramentas
 
 **Frontend**
@@ -64,15 +66,18 @@ Atuo na área de desenvolvimento de software, criando aplicações web e mobile,
 
 ---
 
+
+
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ismaellchaves&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" height="180" alt="Estatísticas do GitHub" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ismaellchaves&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" height="180" alt="Linguagens mais utilizadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ismaellchaves&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&locale=pt-br&rank_icon=github" height="150" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ismaellchaves&layout=compact&langs_count=20&size_weight=0.5&count_weight=0.5&theme=tokyonight&hide_border=true" height="150" alt="Linguagens utilizadas" />
+  <img src="https://streak-stats.demolab.com?user=Ismaellchaves&theme=tokyonight&hide_border=true&locale=pt_BR" height="150" alt="Sequência de contribuições" />
 </p>
 
 ---
+
 
 ## 🏅 Badges of Certification
 
